@@ -1,0 +1,21 @@
+= Зразок файлу формату AsciiDoc
+AsciiDoc схожий на Markdown але надає додаткові можливості, наприклад - автоматичну побудову вказівника змісту.
+
+:toc:
+
+== Табличні данні
+
+.Таблиця 1
+|===
+|Column 1, Header Row |Column 2, Header Row 
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|=== 
+
+== Відео
+
+video::L_LUpnjgPso[youtube]
