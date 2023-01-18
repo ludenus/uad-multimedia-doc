@@ -22,32 +22,9 @@ AsciiDoc схожий на Markdown але надає додаткові мож�
 
 == Додаткові можливості форматування
 
-NOTE: Зверніть увагу на цей текст 
-
-IMPORTANT: Важлива інфомація
-
-TIP: Корисна порада
-
-CAUTION: Обережно! Слизька підлога
-
-WARNING: Ліфт під час тривоги не працює
-
-
-== Відео
-
-ifdef::env-github[]
-image:https://img.youtube.com/vi/L_LUpnjgPso/mqdefault.jpg[link=https://youtu.be/L_LUpnjgPso]
-endif::[]
-
-== 3
-
-:speaker: John
-:subject: Sarah
-
-``Hi {subject}!'', shouted {speaker}.
-
-:speaker: Sarah
-:subject: John
-
-``Hey there, {subject}!'', replied {speaker}.
+.Optional Title
+****
+Sidebars are used to visually separate auxiliary bits of content
+that supplement the main text.
+****
 
