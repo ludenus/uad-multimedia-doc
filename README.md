@@ -73,11 +73,13 @@
 <img src="img/uad-multimedia-doc-0090-blame.png" width="80%"/>
 
 ## Формати
-GitHub підтримує такі мови розмітки для написання документів як Markdown і AsciiDoc. Перший - простіший і більш розповсюджений, другиий надає додаткові можливості форматування тексту.
+GitHub підтримує такі мови розмітки для написання документів як Markdown і AsciiDoc. Перший - простіший і більш розповсюджений, другиий надає додаткові можливості форматування тексту. Обидва варіанти розмітки можуть відображатись в зрозумілій людині формі навіть при відсутності графічного середовища, коли доступний лише текстовий термінал.
 
 ### Markdown
+Прикладом Markdown синтаксису може бут цей документ. Правила розмітки в подробицях описані [тут](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### AsciiDoc
+Приклад AsciiDoc доступний в нашому проекті в файлі [asciidoc.adoc](asciidoc.adoc). Правила AsciiDoc розмітки описані ца [цим](https://docs.asciidoctor.org/asciidoc/latest/) посиланням.
 
 ## Інтерфейси
 
