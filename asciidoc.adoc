@@ -7,15 +7,22 @@ AsciiDoc схожий на Markdown але надає додаткові мож�
 
 .Таблиця 1
 |===
-|Column 1, Header Row |Column 2, Header Row 
+| Назва  | Кількість 
 
-|Cell in column 1, row 1
-|Cell in column 2, row 1
+|Яблука
+|33
 
-|Cell in column 1, row 2
-|Cell in column 2, row 2
+|Сливи
+|44
+
+|Картопля
+|55
 |=== 
 
 == Відео
+
+ifdef::env-github[]
+image:https://img.youtube.com/vi/L_LUpnjgPso/maxresdefault.jpg[link=https://youtu.be/L_LUpnjgPso]
+endif::[]
 
 video::L_LUpnjgPso[youtube]
