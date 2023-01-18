@@ -82,14 +82,17 @@ GitHub підтримує такі мови розмітки для написа
 Приклад AsciiDoc доступний в нашому проекті в файлі [asciidoc.adoc](asciidoc.adoc). Правила AsciiDoc розмітки описані ца [цим](https://docs.asciidoctor.org/asciidoc/latest/) посиланням.
 
 ## Інтерфейси
+Користувачі можуть редагувати текст безпосередньо в браузері або використовувати Інтегральні ссередовиища розробки (IDE) наприклад Jetbrains IDEA.
 
 ### Браузер
 
-### IDE
+<img src="img/uad-multimedia-doc-0120-ascii.png" width="80%"/>
 
-## Не розглянуті питання
+<img src="img/uad-multimedia-doc-0130-ascii.png" width="80%"/>
 
-## WebHook-и і інтеграція з месенджерами
+### IDEA
+
+<img src="img/uad-multimedia-doc-0140-idea.png" width="80%"/>
 
 ### Альтернативні формати і способи публікації
 
