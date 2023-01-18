@@ -22,9 +22,9 @@ AsciiDoc схожий на Markdown але надає додаткові мож�
 
 == Додаткові можливості форматування
 
-.Optional Title
-****
-Sidebars are used to visually separate auxiliary bits of content
-that supplement the main text.
-****
+:tip-caption: pass:[&#128161;]
+
+[TIP]
+It's possible to use Unicode glyphs as admonition icons.
+
 
